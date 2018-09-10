@@ -1,0 +1,9 @@
+1. $ git clone https://bitbucket.ubcsailbot.git
+
+2. $ git add wind_angles.inc
+   $ git commit -m "Tuned wind angles and added unit tests."
+   $ git push origin <branch>
+
+Assumptions:
+* I have already set up the remote repository 
+* I am already on the branch that I would like to commit and push
