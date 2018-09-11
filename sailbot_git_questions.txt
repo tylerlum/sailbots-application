@@ -1,8 +1,18 @@
-1. $ git clone https://bitbucket.ubcsailbot.git
+# UBC Sailbot Software Technical Quiz: Version Control
 
-2. $ git add wind_angles.inc
-   $ git commit -m "Tuned wind angles and added unit tests."
-   $ git push origin <branch>
+1. To clone the `ubcsailbot` repository onto my computer, I would run:
+
+```
+$ git clone https://bitbucket.ubcsailbot.git
+```
+
+2. To add `wind_angles.inc` and then commit and push the changes, I would run:
+
+```
+$ git add wind_angles.inc
+$ git commit -m "Tuned wind angles and added unit tests."
+$ git push origin <branch>
+```
 
 Assumptions:
 * I have already set up the remote repository 
